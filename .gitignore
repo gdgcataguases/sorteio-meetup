@@ -98,7 +98,7 @@ output.json
 # Flutter/Dart/Pub related
 **/doc/api/
 .dart_tool/
-.flutter-plugins
+.flutter-plugins*
 .packages
 .pub-cache/
 .pub/
